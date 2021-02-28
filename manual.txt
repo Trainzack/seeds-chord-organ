@@ -30,7 +30,7 @@ an LFO.The "Mod" knob controls the LFO rate.
 controls the LFO rate.
 8: Two ring-modulating sines, with one hard-synced and sweeping. The "mod"
 knob controls a wave-wrapper.
-
+9: A sawtooth 4 voice chord organ. The "mod" knob selects the chord.
 
 
 	Connections
@@ -120,12 +120,12 @@ This also means this code is Free Software ("free" as in "liberty"); you can
 read it, you can edit it to change it, or add your own sounds. Under some
 conditions you can even redistribute it.
 
-	Advanced option
+	Advanced options
 
 Two of the sounds (numbers 2 and 7) feature an internal LFO with adjustable
 speed. That's very convenient for stand-alone usage, but it turns out that
 some people prefer using an external module for more precise control. If
-that's you; near the start of the code in the seeds.ino file, below the
+that's you; near the start of the code in the seeds-chord-organ.ino file, below the
 change-log, you'll find a line that reads;
 #define INTERNAL_LFO
 If you'd change that to;
@@ -135,3 +135,11 @@ those sounds. If you change your mind, and decide you liked the internal LFO
 better, you can reverse the edit (removing the slashes), save again, upload
 the code again, and you'll get your LFO back.
 
+
+If you prefer the chords in the chord organ sound (number 9) to be tuned to 
+just intonation, you can also change that by editing the code of seeds-chord-organ.ino.
+Change the line that reads:
+#define EQUAL_TEMPERAMENT
+to
+//#define EQUAL_TEMPERAMENT
+and save and upload the firmware to the module.

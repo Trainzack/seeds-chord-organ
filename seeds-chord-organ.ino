@@ -21,6 +21,8 @@ DESCRIPTION:
   with a range of sounds. Please see the manual for details.
 
 Change Log (newest first)
+  V1.1.CH
+    Added a 10th sound; a sawtooth chord organ
   V1.1
     Added a switch in the code to substitute your own modulator for the internal LFO
       for the pwm sounds (2 and 7);
@@ -508,7 +510,7 @@ void loop()
   {
     pwmv_offset =  analogRead(FREQ_OFFSET) >> 2;
     pwmv_offset *= 205;
-    pwmv_offset = pwmv_offset >> 7;
+    pwmv_offset = pwmv_offset >> 8; // Change this 8 to a 7 to double the range (and halve the precision) of the tuning knob.
   }
   if (quant_setting)
   {
