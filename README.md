@@ -7,7 +7,7 @@ This firmware was based upon V1.1 of the manufacturer's firmware.
 
 ## How to install
 
-Install this firmware the same as any other firmware. Follow the instullation procedure as found on the [Ginkosynthese website](https://www.ginkosynthese.com/firmware).
+This firmware should be installed to the module by the standard method as found on the [Ginkosynthese website](https://www.ginkosynthese.com/firmware).
 
 Once the firmware is uploaded, you should be able to access the chord organ via sound 9.
 
@@ -46,7 +46,7 @@ const uint16_t chords[][4] = {
 ```
 
 The data for each chord is represented by a sub-array of four numbers. You may alter these numbers to change the chord quality.
-Each number controls the pitch of one voice. The number is the ratio between the freqeuncy of the root of the chord and the frequency of the voice in question, multiplied by 256.
+Each number controls the pitch of one voice. The number is the ratio between the frequency of the root of the chord and the frequency of the voice in question, multiplied by 256.
 A list of these numbers for each of the 24 semitones above the root can be found above the array in the source code. Alternatively, you may work out the ratios mathematically, and use any tuning system that you want.
 
 Though all of the chords included have the same root note, there is no requirement in the code for that to be the case, so you should be able to make chords have different roots.
