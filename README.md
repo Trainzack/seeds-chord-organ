@@ -15,16 +15,16 @@ Once the firmware is uploaded, you should be able to access the chord organ via 
 
 Sound 9 includes the following chord qualities, listed in order from the counterclockwise knob position to the clockwise knob position:
 
- - ![Octaves](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-03.png)
- - ![Unison](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-04.png)
- - ![Stacked Perfect Fourths](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-05.png)
- - ![Sus4](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-06.png)
- - ![Major](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-07.png)
- - ![Major 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-08.png)
- - ![Dominant 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-09.png)
- - ![Minor 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-10.png)
- - ![Minor Major 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-11.png)
- - ![Augmented](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-12.png)
+ 1. ![Octaves](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-03.png)
+ 2. ![Unison](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-04.png)
+ 3. ![Stacked Perfect Fourths](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-05.png)
+ 4. ![Sus4](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-06.png)
+ 5. ![Major](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-07.png)
+ 6. ![Major 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-08.png)
+ 7. ![Dominant 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-09.png)
+ 8. ![Minor 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-10.png)
+ 9. ![Minor Major 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-11.png)
+ 10. ![Augmented](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-12.png)
 
 ## Changing the Chords
 
