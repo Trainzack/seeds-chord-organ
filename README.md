@@ -30,7 +30,8 @@ Sound 9 includes the following chord qualities, listed in order from the counter
 
 If you would like to change the included chords in this module, you can do that by altering the `chords[][]` array in the `.ino` file. The non-equal-temperment version is set as the following:
 
-```const uint16_t chords[][4] = {
+```
+const uint16_t chords[][4] = {
   { 256, 128, 256, 512},  // 8ves
   { 256, 256, 256, 256},  // unison
   { 256, 341, 455, 607},  // stacked perfect 4ths
