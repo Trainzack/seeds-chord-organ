@@ -1,7 +1,7 @@
 # Seeds Chord Organ
 This is firmware for the [Ginkosynthese Seeds](https://www.ginkosynthese.com/product/1070494/seeds-assembled) that adds a chord organ as an extra voice.
 
-The chord organ is composed of four slightly detuned sawtooth waves, able to be played in a variety of different chords.
+The chord organ is composed of four slightly detuned sawtooth waves, able to be played in a variety of different chords. You can change the root note of the chord via the "Tune" knob or "Pitch" input of your module, and alter the quality of the chords using the "Mod" knob.
 
 This firmware was based upon V1.1 of the manufacturer's firmware.
 
@@ -25,6 +25,12 @@ Sound 9 includes the following chord qualities, listed in order from the counter
  8. ![Minor 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-10.png)
  9. ![Minor Major 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-11.png)
  10. ![Augmented](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-12.png)
+
+## Altering the Tuning
+
+By default, the chords are laid out in equal-temperment. However, there exists an option to use just intonation for the chords. Simply comment out the line `#define EQUAL_TEMPERAMENT` in the `.ino` file before uploading the firmware to the module, and it will use just intonation for the chords.
+
+Note that the just intonation chords will sound more in tune with themselves, but might clash more with other notes.
 
 ## Changing the Chords
 
