@@ -41,7 +41,8 @@ If you would like to change the included chords in this module, you can do that 
   { 256, 384, 455, 614},  // minor 7th
   { 256, 384, 483, 614},  // minor major 7th
   { 256, 406, 512, 645},  // augmented
-};```
+};
+```
 
 The data for each chord is represented by a sub-array of four numbers. You may alter these numbers to change the chord quality.
 Each number controls the pitch of one voice. The number is the ratio between the freqeuncy of the root of the chord and the frequency of the voice in question, multiplied by 256.
