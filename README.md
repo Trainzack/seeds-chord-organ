@@ -15,6 +15,7 @@ Once the firmware is uploaded, you should be able to access the chord organ via 
 
 Sound 9 includes the following chord qualities, listed in order from the counterclockwise knob position to the clockwise knob position:
 
+| Number | Audio | Chord |
 | --- | --- | --- |
 | 1. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q1.wav) | ![Octaves](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-03.png)  |
 | 2. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q2.wav) | ![Unison](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-04.png) |
