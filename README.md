@@ -1,13 +1,15 @@
-# seeds chord organ
-This is firmware for the Ginkosynthese Seeds that adds a chord organ as an extra voice.
+# Seeds Chord Organ
+This is firmware for the [Ginkosynthese Seeds](https://www.ginkosynthese.com/product/1070494/seeds-assembled) that adds a chord organ as an extra voice.
 
 The chord organ is composed of four slightly detuned sawtooth waves, able to be played in a variety of different chords.
+
+This firmware was based upon V1.1 of the manufacturer's firmware.
 
 ## How to install
 
 Install this firmware the same as any other firmware. Follow the instullation procedure as found on the [Ginkosynthese website](https://www.ginkosynthese.com/firmware).
 
-Once the firmware is uploaded, you should be able to access sound 9.
+Once the firmware is uploaded, you should be able to access the chord organ via sound 9.
 
 ## Included Chords
 
