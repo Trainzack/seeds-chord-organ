@@ -15,16 +15,17 @@ Once the firmware is uploaded, you should be able to access the chord organ via 
 
 Sound 9 includes the following chord qualities, listed in order from the counterclockwise knob position to the clockwise knob position:
 
- 1. [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q1.wav) ![Octaves](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-03.png) 
- 2. [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q2.wav) ![Unison](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-04.png)
- 3. [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q3.wav) ![Stacked Perfect Fourths](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-05.png)
- 4. [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q4.wav) ![Sus4](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-06.png)
- 5. [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q5.wav) ![Major](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-07.png)
- 6. [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q6.wav) ![Major 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-08.png)
- 7. [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q7.wav) ![Dominant 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-09.png)
- 8. [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q8.wav) ![Minor 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-10.png)
- 9. [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q9.wav) ![Minor Major 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-11.png)
- 10. [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q10.wav) ![Augmented](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-12.png)
+| --- | --- | --- |
+| 1. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q1.wav) | ![Octaves](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-03.png)  |
+| 2. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q2.wav) | ![Unison](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-04.png) |
+| 3. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q3.wav) | ![Stacked Perfect Fourths](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-05.png) |
+| 4. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q4.wav) | ![Sus4](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-06.png) |
+| 5. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q5.wav) | ![Major](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-07.png) |
+| 6. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q6.wav) | ![Major 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-08.png) |
+| 7. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q7.wav) | ![Dominant 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-09.png) |
+| 8. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q8.wav) | ![Minor 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-10.png) |
+| 9. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q9.wav) | ![Minor Major 7th](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-11.png) |
+| 10. | [Audio](https://trainzack.github.io/seeds-chord-organ-pages/Demo/Q10.wav) | ![Augmented](https://trainzack.github.io/seeds-chord-organ-pages/Ginkosynthese%20Chords%20Diagram-12.png) |
 
 ## Altering the Tuning
 
