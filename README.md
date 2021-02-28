@@ -48,3 +48,5 @@ Each number controls the pitch of one voice. The number is the ratio between the
 A list of these numbers for each of the 24 semitones above the root can be found above the array in the source code. Alternatively, you may work out the ratios mathematically, and use any tuning system that you want.
 
 Though all of the chords included have the same root note, there is no requirement in the code for that to be the case, so you should be able to make chords have different roots.
+
+You can also change the number of chords by adding or removing sub-arrays. In this case, be sure to update the `num_chords` variable to match the number of chords in the array.
